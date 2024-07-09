@@ -36,8 +36,9 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background: white;
+  background: red;
   color: #333;
+  width: -100px;
 }
 
 .logo {
@@ -280,7 +281,7 @@ body {
   display: flex;
   justify-content: space-between;
   gap: 20px;
-  height: 170vh;
+  height: 150vh;
 }
 
 .checkout-form-container {
@@ -688,12 +689,25 @@ body {
 
 .coupon-section {
   display: flex;
+  align-items: center;
+  width: 70%;
+}
+
+.coupon-section input{
+  margin: 0;
+  align-items: center;
+  margin: 10PX;
+}
+
+
+.coupon-section1 {
+  display: flex;
   margin-top: 20px;
   background: white;
   width: 30%;
 }
 
-.coupon-section input {
+.coupon-section1 input {
   flex: 1;
   padding: 10px;
   margin: 0;
@@ -701,7 +715,7 @@ body {
   border-radius: 5px;
 }
 
-.coupon-section button {
+.coupon-section1 button {
   padding: 2px 20px;
   margin-top: 3px;
   position: absolute;
@@ -767,7 +781,6 @@ body {
 
 }
 
-
 /* Footer styles */
 .footer {
   background: #012850;
@@ -828,16 +841,16 @@ body {
 .footer-bottom p {
   margin: 0;
 }
+
 .dot{
   color: red;
   width: 15px;
   margin-left: -2rem;
 }
+
 .dot_box{
   display: flex;
   flex-direction: row;
-
   gap: .4rem;
   margin-left: -5rem;
-  
 }

@@ -6,7 +6,7 @@ import { CgProfile } from "react-icons/cg";
 import { IoCartOutline } from "react-icons/io5";
 
 
-const header = () => {
+const Header = () => {
     return (
         <div className='header'>
             <Link href='/'>   
@@ -24,4 +24,4 @@ const header = () => {
         </div>
         
     )
-}
+};

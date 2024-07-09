@@ -161,67 +161,6 @@ const Header = () => {
           <button type="submit" className='btn1'>PLACE ORDER</button>
         </div>
       </div>
-{/* 
-      <footer className="footer">
-        <div className="footer-container">
-          <div className="footer-section">
-            <h1 className="Footer-logo">
-              <a href="#">
-                <Image
-                  src="/images/yindira.png"
-                  alt="yindira logo"
-                  width={100} 
-                  height={50} 
-                />
-              </a>
-            </h1>
-            <p className="footer-text">"To empower women through fashion by offering a seamless, stylish, and inspiring online shopping experience that celebrates individuality and confidence."</p>
-          </div>
-          <div className="footer-section">
-            <h4 className="footer-title">HELP</h4>
-            <ul className="footer-links">
-              <li><Link href="#">FAQs</Link></li>
-              <li><Link href="#">Size Guide</Link></li>
-              <li><Link href="#">Shipping</Link></li>
-              <li><Link href="#">Return & Exchange</Link></li>
-              <li><Link href="#">Contact us</Link></li>
-            </ul>
-          </div>
-          <div className="footer-section1">
-            <h4 className="footer-title">COMPANY</h4>
-            <ul className="footer-social">
-              <li><Link href="#">About us</Link></li>
-              <li><Link href="#">Careers</Link></li>
-              <li><Link href="#">Press</Link></li>
-              <li><Link href="#">Blog</Link></li>
-            </ul>
-          </div>
-          <div className="footer-section2">
-            <h4 className="footer-title">MORE</h4>
-            <ul className="footer-social">
-              <li><Link href="#">Account</Link></li>
-              <li><Link href="#">Wishlist</Link></li>
-              <li><Link href="#">Track order</Link></li>
-            </ul>
-          </div>
-          <div className="footer-section3">
-            <h4 className="footer-title">LEGAL</h4>
-            <ul className="footer-social">
-              <li><Link href="#">Privacy policy</Link></li>
-              <li><Link href="#">Terms of service</Link></li>
-              <li><Link href="#">Refund policy</Link></li>
-            </ul>
-          </div>
-          <div className="footer-section4">
-            <h4 className="footer-title">NEW TO YINDIRA?</h4>
-            <ul className="footer-social">
-              <p>Sign up for exclusive offers, original stories, events and more.</p>
-              <li><Link href="#">Twitter</Link></li>
-            </ul>
-          </div>
-        </div>
-    </footer> */}
-
     <Footer/>
     </header>
   );

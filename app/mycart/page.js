@@ -162,7 +162,7 @@ const Header = () => {
           <h3>CART TOTAL</h3>
           <p className="catting">Sub-total: <span className="catting-price">₦167,000</span></p>
           <p className="catting">Shipping: <span className="shiping-text">Enter your address to view shipping options</span></p>
-          <div className="coupon-section">
+          <div className="coupon-section1">
             <input type="text" placeholder="Coupon Code" />
             <button>Apply</button>
           </div>
