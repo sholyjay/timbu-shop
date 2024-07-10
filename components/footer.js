@@ -9,7 +9,6 @@ const Footer = () => {
           <h3>Help</h3>
           <ul className="footer-links">
             <li><Link href="#">FAQs</Link></li>
-            
           </ul>
         </div>
         <div className="footer-section">

@@ -56,7 +56,10 @@ const Header = () => {
             <div className="candy-attach">
               <h2>Candy</h2>
               <p className="pie">Signature pose</p>
-              <p className="pity">Wine</p>
+              <div className="dot_box">
+                <GoDotFill className="dot" /> 
+                <p className="pity">Wine</p>
+              </div>
             </div>
           </div>
           <div className="item-actions">
@@ -83,12 +86,10 @@ const Header = () => {
               <h2>Candy</h2>
               <p className="pie">Signature pose</p>
               <div className="dot_box">
-                <GoDotFill className="dot" /> 
+                <GoDotFill className="dot1" /> 
                 <p className="pity"> Black</p>
               </div>
-            </div>
-            
-            
+            </div>  
           </div>
           <div className="item-actions">
             <p>M</p>
@@ -113,7 +114,10 @@ const Header = () => {
             <div className="candy-attach">
               <h2>Candy</h2>
               <p className="pie">Signature pose</p>
-              <p className="pity">Pink</p>
+              <div className="dot_box">
+                <GoDotFill className="dot2" /> 
+                <p className="pity">Pink</p>
+              </div>
             </div>
           </div>
           <div className="item-actions">
@@ -139,7 +143,10 @@ const Header = () => {
             <div className="candy-attach">
               <h2>Crochetelo</h2>
               <p className="pie">Knitted piece</p>
-              <p className="pity">Cream</p>
+              <div className="dot_box">
+                <GoDotFill className="dot3" /> 
+                <p className="pity">Cream</p>
+              </div>
             </div>
           </div>
           <div className="item-actions">

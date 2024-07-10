@@ -29,6 +29,7 @@ body {
 .header {
   position: relative;
   height: 100vh;
+  width: 100%;
 }
 
 .container {
@@ -36,9 +37,9 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background: red;
+  background: white;
   color: #333;
-  width: -100px;
+  min-width: 100%;
 }
 
 .logo {
@@ -293,6 +294,7 @@ body {
   background: #f9f9f9;
   padding: 20px;
   border-radius: 4px;
+  height: 120vh;
 }
 
 .checkout-container h1,
@@ -786,7 +788,7 @@ body {
   background: #012850;
   color: white;
   padding: 50px;
-  margin-top: 60px;
+  margin-top: 70px;
 }
 
 .footer-container {
@@ -848,9 +850,30 @@ body {
   margin-left: -2rem;
 }
 
+.dot1{
+  color: black;
+  width: 15px;
+  margin-left: -2rem;
+}
+
+.dot2{
+  color: coral;
+  width: 15px;
+  margin-left: -2rem;
+}
+
+.dot3{
+  color: cornsilk;
+  width: 15px;
+  margin-left: -2rem;
+}
+
 .dot_box{
   display: flex;
   flex-direction: row;
   gap: .4rem;
   margin-left: -5rem;
+}
+.marginTop{
+  margin-bottom: 10rem;
 }

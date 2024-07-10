@@ -32,7 +32,7 @@ const Header = () => {
           </button>
         </nav>
       </div>
-      <div className="checkout-container">
+      <div className="checkout-container marginTop">
         <div className="checkout-form-container">
           <h1 className='check'>Checkout</h1>
           <p className="returning-customer">
