@@ -197,7 +197,7 @@ const Header = () => {
       <div className="banner">
         <div className="textContainer">
           <h2 className="title">The perfect blend of dress are available at our stores.</h2>
-          <p className="subtitle">"Elegance in every stitch: Transform your wardrobe with our handpicked selection of chic and timeless pieces"</p>
+          <p className="subtitle">Elegance in every stitch: Transform your wardrobe with our handpicked selection of chic and timeless pieces</p>
           <button className="shopButton">Shop now</button>
         </div>
         <div className="imageContainer">
