@@ -240,7 +240,9 @@ const Header = () => {
           ))}
         </div>
       </div>
-      <button className="btn">Load More</button>
+      <div>
+        <button className="btn">Load More</button>
+      </div>
     <Footer/>
     </header>
   );

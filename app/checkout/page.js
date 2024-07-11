@@ -75,7 +75,25 @@ const Header = () => {
                   <option value="">Select an option</option>
                   <option value="Lagos">Lagos</option>
                   <option value="Abuja">Abuja</option>
-                  {/* Add more options as needed */}
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
+                  <option value="Abuja">Abuja</option>
                 </select>
               </div>
               <div className="form-group2">
@@ -84,6 +102,23 @@ const Header = () => {
                   <option value="">Select an option</option>
                   <option value="Ikeja">Ikeja</option>
                   <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+                  <option value="Lekki">Lekki</option>
+
                   {/* Add more options as needed */}
                 </select>
               </div>
@@ -94,7 +129,26 @@ const Header = () => {
                 <option value="">Select an option</option>
                 <option value="Nigeria">Nigeria</option>
                 <option value="Ghana">Ghana</option>
-                {/* Add more options as needed */}
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Ghana">Ghana</option>
               </select>
             </div>
             <div className="form-group1">

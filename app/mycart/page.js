@@ -39,10 +39,10 @@ const Header = () => {
         <div className="cart-product">
           <h4>Product</h4>
           <ul className="cart-produce">
-            <li>Size</li>
-            <li>Quantity</li>
-            <li>Prize</li>
-            <li>Sub-Total</li>
+            <li>SIZE</li>
+            <li>QUANTITY</li>
+            <li>PRIZE</li>
+            <li>SUB-TOTAL</li>
           </ul>
         </div>
         <div className="cart-item">
@@ -83,8 +83,8 @@ const Header = () => {
               height={150} 
             />
             <div className="candy-attach">
-              <h2>Candy</h2>
-              <p className="pie">Signature pose</p>
+              <h2>Sculpter</h2>
+              <p className="pie">Silk shaper</p>
               <div className="dot_box">
                 <GoDotFill className="dot1" /> 
                 <p className="pity"> Black</p>
