@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <header className="header">
       <div className="container">
-        <h1 className="logo">
+        <div>
           <Link href="#">
             <Image
               src="/images/logo.png"
@@ -19,7 +19,7 @@ const Header = () => {
               height={50}
             />
           </Link>
-        </h1>
+        </div>
         <nav className="nav">
           <button className="icon">
             <Link href="#"><SlMagnifier /></Link>
@@ -211,9 +211,8 @@ const Header = () => {
             <label htmlFor="terms">
               I have read and agreed to the website Terms & Conditions
             </label>
-            <button type="submit" className='btn1'>PLACE ORDER</button>
           </div>
-          
+          <button type="submit" className='btn1'>PLACE ORDER</button>
         </div>
       </div>
     <Footer/>

@@ -1,15 +1,23 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-container">
       <div className="footer-section">
-          <h3>Help</h3>
-          <ul className="footer-links">
-            <li><Link href="#">FAQs</Link></li>
-          </ul>
+        <div className="footer-logo">
+          <Link href="#">
+            <Image
+              src="/images/yindira.png"
+              alt="yindira logo"
+              width={100} 
+              height={50}
+            />
+          </Link>
+        </div>
+          <p>To empower women through fashion by offering a seamless, stylish, and inspiring online shopping experience that celebrates individuality and confidence.</p>
         </div>
         <div className="footer-section">
           <h3>Help</h3>
