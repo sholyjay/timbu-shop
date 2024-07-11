@@ -16,8 +16,8 @@ const Footer = () => {
               height={50}
             />
           </Link>
-        </div>
           <p>To empower women through fashion by offering a seamless, stylish, and inspiring online shopping experience that celebrates individuality and confidence.</p>
+        </div>
         </div>
         <div className="footer-section">
           <h3>Help</h3>
@@ -29,7 +29,7 @@ const Footer = () => {
             <li><Link href="#">Contact us</Link></li>
           </ul>
         </div>
-        <div className="footer-section">
+        <div className="footer-section1">
           <h3>Company</h3>
           <ul className="footer-links">
             <li><Link href="#">About us</Link></li>
@@ -39,7 +39,7 @@ const Footer = () => {
             <li><Link href="#">Blog</Link></li>
           </ul>
         </div>
-        <div className="footer-section">
+        <div className="footer-section2">
           <h3>More</h3>
           <ul className="footer-links">
             <li><Link href="#">Account</Link></li>
@@ -47,7 +47,7 @@ const Footer = () => {
             <li><Link href="#">Track order</Link></li>
           </ul>
         </div>
-        <div className="footer-section">
+        <div className="footer-section3">
           <h3>Legal</h3>
           <ul className="footer-links">
             <li><Link href="#">Privacy policy</Link></li>
@@ -55,7 +55,7 @@ const Footer = () => {
             <li><Link href="#">Refund policy</Link></li>
           </ul>
         </div>
-        <div className="footer-section">
+        <div className="footer-section4">
           <h3>New to Yindira?</h3>
           <ul className="footer-links">
             <li><Link href="#">Sign up for exclusive offers, original stories, events and more.</Link></li>

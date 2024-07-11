@@ -42,10 +42,6 @@ body {
   min-width: 100%;
 }
 
-.footer-logo {
-  margin-bottom: 10px;
-}
-
 .nav {
   display: flex;
   align-items: center;
@@ -788,17 +784,37 @@ body {
   background: #012850;
   color: white;
   padding: 50px;
-  margin-top: 70px;
+  margin-top: 50px;
+}
+
+.footer-logo{
+  margin-right: 30px;
 }
 
 .footer-container {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 30px;
+  gap: -15px;
 }
 
 .footer-section {
+  flex: 1;
+}
+
+.footer-section1 {
+  flex: 1;
+}
+
+.footer-section2 {
+  flex: 1;
+}
+
+.footer-section3 {
+  flex: 1;
+}
+
+.footer-section4 {
   flex: 1;
 }
 
@@ -806,11 +822,41 @@ body {
   font-size: 20px;
   font-weight: 700;
   margin-bottom: 10px;
+  margin-left: 80px;
+}
+
+.footer-section1 h3 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  margin-left: 90px;
+}
+
+.footer-section2 h3 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  margin-left: 90px;
+}
+
+.footer-section3 h3 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  margin-left: 90px;
+}
+
+.footer-section4 h3 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  margin-left: 90px;
 }
 
 .footer-links {
   list-style: none;
   padding: 0;
+  margin-left: 90px;
 }
 
 .footer-links li {
