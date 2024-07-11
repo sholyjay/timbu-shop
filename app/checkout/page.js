@@ -211,8 +211,9 @@ const Header = () => {
             <label htmlFor="terms">
               I have read and agreed to the website Terms & Conditions
             </label>
+            <button type="submit" className='btn1'>PLACE ORDER</button>
           </div>
-          <button type="submit" className='btn1'>PLACE ORDER</button>
+          
         </div>
       </div>
     <Footer/>
