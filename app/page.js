@@ -124,7 +124,7 @@ const products = [
   },
 
   {
-    id: 13,
+    id: 14,
     name: 'Signature',
     name1: 'Flowery Shiff',
     price: '₦60,000',
@@ -133,7 +133,7 @@ const products = [
   },
 
   {
-    id: 13,
+    id: 5,
     name: 'Reddy',
     name1: 'Peppery flo',
     price: '₦40,000',
@@ -142,7 +142,7 @@ const products = [
   },
 
   {
-    id: 13,
+    id: 16,
     name: 'Fushion',
     name1: 'Knitted mini',
     price: '₦35,000',
